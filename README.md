@@ -1,6 +1,6 @@
 # vueproject
 
-> Y
+> A simple vue project
 
 ## Build Setup
 
